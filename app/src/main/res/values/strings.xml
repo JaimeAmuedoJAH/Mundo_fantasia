@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mundo_fantasia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_tierras">Tierras de Elden Ring</string>
+    <string name="fragment_personajes">Personajes de Elden Ring</string>
+    <string name="fragment_armas">Armas de Elden Ring</string>
+</resources>
